@@ -1,4 +1,4 @@
-html: ../amir/*.py ../data/amir_migrate/*.py ../bin/*.py
+html:../amir/*.py ../data/amir_migrate/*.py ../bin/*.py
 	doxygen Doxyfile
 
 clean:
