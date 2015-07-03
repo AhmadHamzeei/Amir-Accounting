@@ -1,8 +1,9 @@
 [Desktop Entry]
 Name=Amir
-Comment=Amir application
+Comment=Amir accounting software
 Categories=GNOME;Utility;
 Exec=amir
-Icon=/usr/share/amir/media/icon.png
+Icon=amir
 Terminal=false
 Type=Application
+
