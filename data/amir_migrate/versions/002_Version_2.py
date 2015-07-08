@@ -284,7 +284,7 @@ def upgrade(migrate_engine):
             'cfgDesc' :u'Enter here'},
         {'cfgId' :14, 'cfgType' : 3, 'cfgCat' : 1, 'cfgKey' : u'other_cheque'    , 'cfgValue' : u'6',
             'cfgDesc' :u'Enter here'},
-        {'cfgId' :15, 'cfgType' : 3, 'cfgCat' : 1, 'cfgKey' : u'income'     , 'cfgValue' : u'83',
+        {'cfgId' :15, 'cfgType' : 3, 'cfgCat' : 1, 'cfgKey' : u'income'     , 'cfgValue' : u'23',
             'cfgDesc':u'Enter here'}
         #{'cfgId' :11, 'cfgType' : 3, 'cfgCat' : 1, 'cfgKey' : u'fund'          , 'cfgValue' : u'??',
         #    'cfgDesc':u'Enter here'},  #TODO cfgKey
